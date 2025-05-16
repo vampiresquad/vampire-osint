@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+phonenumbers
+colorama
+pyfiglet
+ipwhois
+email-validator
+tabulate
+dnspython
+urllib3
+html5lib
